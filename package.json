@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "awe-dnd": "^0.3.4",
-    "codemirror": "^5.48.4",
+    "codemirror": "^5.58.2",
     "iview": "^3.5.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
